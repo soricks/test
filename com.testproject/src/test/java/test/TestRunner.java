@@ -10,6 +10,7 @@ public class TestRunner {
 	try {
          
      	Main.MyTest();
+     	
      } catch (Exception e) {
          e.printStackTrace();
      }
