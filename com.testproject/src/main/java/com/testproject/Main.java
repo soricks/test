@@ -1,8 +1,8 @@
-package testproject;
+package com.testproject;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void MyTest() {
 		System.out.println("test");
 
 	}
